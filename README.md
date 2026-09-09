@@ -10,3 +10,5 @@ Celia is a reusable Kotlin Android media SDK with a Jetpack Compose demo app tha
 - Jetpack Compose
 - Android Studio
 - Android SDK
+
+Test commit: edit README from Android Studio
